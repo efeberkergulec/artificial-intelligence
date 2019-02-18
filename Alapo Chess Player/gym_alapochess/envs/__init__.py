@@ -1,0 +1,1 @@
+from gym_alapochess.envs.chess import AlapoEnv
